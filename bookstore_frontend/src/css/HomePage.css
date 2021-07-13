@@ -1,0 +1,113 @@
+.carousel-container {
+  max-height: 400px;
+}
+
+.avatar-name {
+  color: #646464;
+  padding-left: 30px;
+  font-size: 1rem;
+}
+
+.headwrap-container {
+  background-color: #fff;
+  box-shadow: 0 2px 8px #f0f1f2;
+  position: relative;
+  z-index: 10;
+  height: 120px;
+}
+
+.searchbar-container {
+  max-width: 500px;
+}
+
+.avatar-container {
+  width: 200px;
+}
+
+.logohead-container {
+  width: 300px;
+}
+
+.logohead-image {
+  padding-left: 20px;
+  padding-top: 10px;
+  height: 100px;
+}
+
+.searchbar_homepage-container {
+  width: 800px;
+}
+
+.home_content-container {
+  background-color: #f0f3ef;
+  border-left: 1px solid #e8e8e8 !important;
+  border-right: 1px solid #e8e8e8 !important;
+  height: 200vh;
+}
+
+.sider-container {
+  /*height:100% !important;*/
+  min-height:750px !important;
+  max-width: 200px !important;
+  width: 200px !important;
+  flex: 0 0 200px !important;
+  color: #364149;
+  background: #fafafa;
+  border-right: 1px solid rgba(0, 0, 0, 0.07);
+}
+
+.carousel-container {
+  width: 1126px;
+  min-height: 410px !important;
+  height: 410px !important;
+}
+
+.carousel-content {
+  width: 589px;
+  height: 360px;
+  /*margin:auto;*/
+}
+
+.carouselright-container {
+  width: 391px;
+  height: 360px;
+}
+
+.carouselright-content {
+  width: 391px !important;
+  height: 175px;
+}
+
+.carouseldown-content {
+  width: 190px;
+  height: 174px;
+}
+
+.home-layout {
+  /*background-color: #fafafa;*/
+}
+
+.barimg-container {
+  width: 1060px;
+  padding-left: 68px;
+}
+
+.home-bar {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.book1-container {
+  width: 1060px;
+  padding-left: 68px;
+  padding-top: 20px;
+}
+
+.book1-wrapper {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+}

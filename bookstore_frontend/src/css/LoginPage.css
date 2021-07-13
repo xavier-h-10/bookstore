@@ -1,0 +1,100 @@
+.LoginInput {
+  margin: 0 auto;
+  width: 320px;
+  height: 60px;
+}
+
+.LoginRemember {
+  margin: 0 auto;
+  width: 200px;
+  height: 50px;
+}
+
+.LoginSubmit {
+  width: 100%;
+  margin: 0 auto;
+  /*width: 200px;*/
+  height: 50px;
+}
+
+.ant-checkbox-wrapper {
+  width: 200px;
+}
+
+.content-container {
+  width: 100%;
+  overflow: hidden;
+  height: 500px;
+  background: url(../resources/login_background.jpg) center center no-repeat;
+  background-color: white;
+  background-size: 1440px 500px;
+}
+
+.logo-container {
+  padding: 20px 0;
+  width: 1200px;
+  height: 120px;
+  margin: 0 auto;
+  color: #ffffff;
+  background-color: #ffffff;
+}
+
+.logo-image {
+  height: 90px;
+}
+
+.ant-layout-footer {
+  background-color: #ffffff;
+}
+
+.navbar {
+  display: block !important;
+  text-align: center;
+}
+
+.LoginBox-wrap {
+  position: absolute;
+  top: 250px;
+  right: 150px;
+  width: 350px;
+  display: inline-block;
+  background-color: hsla(0, 0%, 100%, .9);
+}
+
+.LoginForm-container {
+  width: 350px;
+  min-height: 300px;
+  top: 0;
+  left: 0;
+  padding: 40px 40px 15px 0px;
+  backface-visibility: hidden;
+  background: linear-gradient(30deg, rgb(93, 197, 250) 0%, rgb(252, 252, 252) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='rgba(53, 57, 74, 0)', endColorstr='rgb(0, 0, 0)', GradientType=1);
+  box-shadow: -15px 15px 15px rgba(0, 0, 0, 0.4);
+}
+
+.SubmitButton {
+  width: 250px;
+}
+
+.title-text {
+  display: inline-block;
+  vertical-align: top;
+  zoom: 1;
+  color: #666;
+  margin-left: 50px;
+  font-size: 22px;
+  line-height: 50px;
+  margin-top: 15px;
+}
+
+.SubmitButton {
+  width: 260px;
+}
+
+
+.register-click{
+  color: #8e8e8e;
+  float:right;
+  font-size:14px;
+}

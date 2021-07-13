@@ -1,0 +1,40 @@
+.search-breadhead {
+  height: 34px;
+  line-height: 34px;
+  color: #666;
+  width: 100%;
+}
+
+.search-breadhead .first{
+  font-size: 25px;
+  font-family: Microsoft Yahei;
+  font-weight: 700;
+  white-space:nowrap;
+  text-overflow:ellipsis;
+  text-decoration: none;
+  color: #363535;
+}
+
+.search-breadhead  .second{
+  color: #666;
+  padding: 0 30px;
+  font-size: 15px;
+  text-decoration: none;
+}
+
+.search-information {
+  padding-top: 15px;
+  font-weight: 700;
+}
+
+.search-information strong {
+  color: #db2a41;
+  font-weight: 700;
+}
+
+.search-container {
+  width: 100%;
+  margin-top: 30px;
+  margin-left: 60px;
+  min-height: 600px;
+}

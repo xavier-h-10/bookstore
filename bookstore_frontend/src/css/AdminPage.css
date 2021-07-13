@@ -1,0 +1,95 @@
+.logoAdmin-container {
+  max-width: 250px;
+
+}
+
+.logoAdmin-image {
+  max-height: 50px;
+  margin: 10px 0px 3px 15px;
+}
+
+
+.siderAdmin-container{
+  height: auto;
+  min-height:700px !important;
+  min-width:250px !important;
+  width: 250px !important;
+  max-width:250px !important;
+  flex: 0 0 250px !important;
+  color: #364149;
+  background: #fafafa;
+  border-right: 1px solid rgba(0, 0, 0, 0.07);
+  font-size: 20px;
+}
+
+.booktable-container{
+  max-width:1000px !important;
+  width:1000px !important;
+  margin:auto;
+  padding-top:50px;
+}
+
+.adminview-layout{
+  width:100%;
+  background-color: #ffffff;
+}
+
+.adminview-sider{
+  width:250px!important;
+  max-width:250px !important;
+}
+
+.booktable-wrapper{
+  width:100%;
+}
+
+.userorder-table{
+  width:80% !important;
+  margin:auto !important;
+  padding-top: 50px !important;
+}
+
+.image-small{
+  width: 100% !important;
+  margin:auto!important;
+}
+
+.column-book {
+  text-align:center !important;
+}
+
+.ant-table-cell column-book{
+  text-align:center;
+  margin:auto!important;
+  align:center;
+}
+
+
+.statsprice-container{
+  color: #C62E2D !important;
+  font-size: 25px !important;
+  font-weight: 700;
+}
+
+.addbook-form{
+  width:80%;
+}
+
+.addbook-container{
+  width:80%;
+  border: 1px solid #ddd;
+  padding-top:50px;
+  margin-top:50px !important;
+  margin: 0 auto;
+}
+
+
+.echart-item{
+  width:100%;
+  height:500px!important;
+}
+
+.addbook-wrapper{
+  width:100%;
+  min-height:900px;
+}

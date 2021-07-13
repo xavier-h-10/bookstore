@@ -1,0 +1,24 @@
+
+.logo-container {
+  padding: 20px 0;
+  width: 1200px;
+  height: 120px;
+  margin: 0 auto;
+  color: #ffffff;
+  background-color: #ffffff;
+}
+
+.RegisterBox-container {
+  width: 1200px;
+  height: 500px;
+  border: 1px solid #ddd;
+  border-top: 0;
+  margin: 0 auto;
+
+}
+
+.RegisterForm-container {
+  padding-top: 40px;
+  width: 500px;
+  margin-left: 300px;
+}
